@@ -17,3 +17,5 @@ Useful links:
 ### Project 01 - Logic gates | HDL
 
 Within this project my task was to create logic basic gates with HDL
+
+> The most complicated thing was to stop thinking conditions
