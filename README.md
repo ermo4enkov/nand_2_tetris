@@ -14,4 +14,5 @@ This repositoryfor all my tasks from nand2tetris course on Coursera: https://www
 Within this project my task was to create logic basic gates with HDL
 
 Usefull links:
-- learnxinyminutes[https://learnxinyminutes.com/docs/hdl/]
+- https://learnxinyminutes.com/docs/hdl/
+- https://songkeys.github.io/posts/nand2tetris/
