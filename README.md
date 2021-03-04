@@ -1,6 +1,6 @@
-[logo]: https://github.com/ermo4enkov/nand_2_tetris/assets/nand_key.jpg "Logo Title Text 2"
+![logo](https://tvax2.sinaimg.cn/large/006tKfTcgy1fk8mzusncij30sm0g6n0c.jpg)
 
-“Once upon a time, every computer specialist had a gestalt understanding of how computers worked. The overall interactions among hardware, software, compilers, and the operating system were simple and transparent enough to produce a coherent picture of the computer’s operations.”
+> “Once upon a time, every computer specialist had a gestalt understanding of how computers worked. The overall interactions among hardware, software, compilers, and the operating system were simple and transparent enough to produce a coherent picture of the computer’s operations.”
 
 — The Elements of Computing Systems: Building a Modern Computer from First Principles by Noam Nisan, Shimon Schocken
 
