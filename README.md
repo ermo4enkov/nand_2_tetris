@@ -1,4 +1,4 @@
-![logo](https://tvax2.sinaimg.cn/large/006tKfTcgy1fk8mzusncij30sm0g6n0c.jpg)
+![logo](https://raw.githubusercontent.com/ermo4enkov/nand_2_tetris/main/assets/nand_key.jpg)
 
 > “Once upon a time, every computer specialist had a gestalt understanding of how computers worked. The overall interactions among hardware, software, compilers, and the operating system were simple and transparent enough to produce a coherent picture of the computer’s operations.”
 
