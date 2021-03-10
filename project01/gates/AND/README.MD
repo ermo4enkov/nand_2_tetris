@@ -1,1 +1,1 @@
-![logo](https://github.com/ermo4enkov/nand_2_tetris/blob/main/project01/gates/DMUX/and.png)
+![logo](https://github.com/ermo4enkov/nand_2_tetris/blob/main/project01/gates/AND/and.png)
